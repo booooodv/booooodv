@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm FinnYan
+
+[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
 <!--
 **booooodv/booooodv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
